@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shivendra Tripathi</h1>
-<h3 align="center">A passionate Competitive Programmer and Frontend Developer from India</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h3 align="center">A passionate Competitive Programmer and Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdeve2010&label=Profile%20views&color=0e75b6&style=flat" alt="shivdeve2010" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivdeve2010" alt="shivdeve2010" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@s_tripathi__" target="blank"><img src="https://img.shields.io/twitter/follow/@s_tripathi__?logo=twitter&style=for-the-badge" alt="@s_tripathi__" /></a> </p>
 
+- 🔭 I’m currently working on **Full Stack Development**
+
+- 🌱 I’m currently learning **PHP, MYSQL, Node.Js**
+
+- 👯 I’m looking to collaborate on **Any Full Stack project**
+
+- 💬 Ask me about **React.Js, Javascript, Data Structure & Algorithm**
+
 - 📫 How to reach me **shivendra1751@gmail.com**
 
+- 📄 Know about my experiences [p=sharing](p=sharing)
 
+- ⚡ Fun fact **I think I know a lot !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
